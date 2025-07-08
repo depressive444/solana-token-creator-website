@@ -17,7 +17,7 @@ window.footer_discord = "https://discord.com/invite/xxxx";
 window.footer_telegram = "https://t.me/coinblastfun";
 
 // branding
-window.project_name = "CoinBlast";
+window.project_name = "Coinup";
 window.project_domain = "coinblast.fun";
 
 window.disclaimer =
