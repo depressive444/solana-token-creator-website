@@ -6,10 +6,10 @@ window.base_fee = 0.0; // base fee (transfer to recipient address)
 window.price = 0.0; // optional feature fee price (transfer to recipient address)
 window.copy_price = 0.0; // price fee for copy token (transfer to recipient address)
 window.rpc =
-  "https://mainnet.helius-rpc.com/?api-key=3212d845-480e-4b86-af4f-c8150ebb819a"; // solana rpc
+  "https://mainnet.helius-rpc.com/?api-key=869a69aa-b312-4bb7-a4f1-07d25ea4cbfe"; // solana rpc
 window.pinata_secret_api_key =
-  "9b74f8e70f64e49388089674d318d6d7a421555198ba42bdf9dbd3bc9eec044b"; // pinata secret api key
-window.pinata_api_key = "487f7e04b0437f9ada35"; // pinata api key
+  "a375f46c1215854e0d3b341bcf7194b060b2a57ba62d81392f398634b4c327d5"; // pinata secret api key
+window.pinata_api_key = "2a75b41921355e4b163a"; // pinata api key
 
 // footer social links
 window.footer_twitter = "https://x.com/coinblastfun";
